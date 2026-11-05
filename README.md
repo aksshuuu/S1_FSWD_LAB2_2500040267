@@ -44,15 +44,15 @@ Each accession in the digital catalog records the following fields via the custo
 ### 2. Installation
 Navigate to your project directory and install the necessary dependencies for both the backend and frontend:
 
-```bash
-# Ensure you are in your project folder
-cd movie-club
 
-# Install dependencies (Express, Mongoose, Cors, Dotenv, React, Vite)
-npm install
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/88b28afa-f474-48e7-9369-ad6fb111b006" />
 
-<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/79cf6f40-59e2-4ea1-bfd1-acb0536d75a2" />
-<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/5f3fd7d2-e676-4858-a503-99f526041c5a" />
+<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/ec30a063-eb6d-4f14-a916-ae5d5abffbbe" />
+
+
+
+
+
 
 
 
